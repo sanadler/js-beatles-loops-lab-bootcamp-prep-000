@@ -7,6 +7,3 @@ function theBeatlesPlay(musicians, instruments){
   }
 }
 
-musicians = ["john", "ringo", "paul"];
-instruments = ["guitar", "alkfj", "gioa"]
-theBeatlesPlay(musicians, instruments);
